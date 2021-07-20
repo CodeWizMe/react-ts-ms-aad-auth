@@ -1,1 +1,1 @@
-# react-ts-ms-aad-auth
+# React TypeScript MS AzureAD Authentication
